@@ -90,17 +90,7 @@ def gradingStudents(grades):
                 new_grade[x] = grades[x]
             else:
                 new_grade[x] = grades[x]
-    
-
-
-
     return new_grade
-
-
-
-
-
-
 
 n = int(input())
 
